@@ -1,0 +1,95 @@
+C R E D I T S
+
+MAIN PACK:
+-Reijvi (hey that's me~), creator of the pack, duh, what'd u expect, pretty much behind 99% of the whole pack, sounds, models, textures, animations, etc.
+
+
+
+VANILLA SHADERS:
+-thebbq, is the biggest reason Reimagined even has the shaders it has such as: 
+Custom Night, Fancier Water, Waving Foliage, more complex Vanilla Emissives, Improved Nether fog, Fancier clouds and so on, feckin' amazing dude.
+https://github.com/bradleyq/shader-toolkit (Smooth Clouds)
+(Otherwise, no direct links exists since all of these have been custom commissioned for Reimagined)
+
+-Godlander, made the animated skin shader, ported the shader code to 1.21, animated furnace gui stage shader as well as the lava wave animation, helped me port the shader to 1.21.2+ and so, so much more!
+https://www.planetminecraft.com/texture-pack/animatedskin/ (Animated Skin)
+https://www.planetminecraft.com/texture-pack/v-5368449/ (Waving Lava)
+(no link exists for Furnace gui or emissives since it's a custom commissioned shader for Reimagined) ( FURNACE SHADER BROKEN CURRENTLY FOR THE MOMENT)
+
+-DartCat25, created the menu background shader:
+https://www.planetminecraft.com/texture-pack/menus-enchanted/
+
+-Shock Micro, created the waving nether portal shader:
+https://www.curseforge.com/minecraft/texture-packs/waving-in-the-wind
+
+
+
+BORROWED SOUNDS:
+-Enhanced Audio, by Frawzy (Resource Pack): 
+(Smoker, Blast Furnace, Egg Throw, Potion splash and throw, Bow, Stone walk and Lava sound.)
+https://www.curseforge.com/minecraft/texture-packs/enhanced-audio
+
+-Presence Footsteps, by Huricaaan & Huricaan (Mod): 
+(Sand, wood and dirt/gravel walk sounds.)
+https://www.curseforge.com/minecraft/mc-mods/presence-footsteps
+
+-Xonks Sounds, by Xonk (Resource Pack): 
+(Water sounds.)
+https://www.curseforge.com/minecraft/texture-packs/xonk-sounds
+
+-Dynamic Surroundings, by Lanixius (Resource Pack): 
+(A few Skeleton and wither skeleton sounds.)
+https://www.planetminecraft.com/texture-pack/dynamic-audio-realistic-soundpack/
+
+-Noita (Video Game): Anvil place sound.
+-Skyrim (Video Game): Anvil and Brewing stand use sound.
+-Minecraft Dungeons (Video Game): A ton of sounds, from Zombie death, Husk hurt, skeleton hurt, beacon, iron door and more.
+
+-Reimagined (Resource Pack, duh): 
+(Pretty much all other sounds are by yours truly, me~, such as tweaked Dragon hit and fly sound, Ender pearl throw, Enchant sound, Metal sounds and so on.)
+
+
+
+MUSIC: | FOR MORE DETAILS CHECK "assets\minecraft\sounds\music" OR THE SOUNDS.JSON FILE
+-Erlend Flatin(Artist) - Sunset
+-MalCap'n66(Artist) - Conflux
+-Lost Angel(Artist) - 39
+-Solunary(Artist) - Life | Voide
+-C418(Artist) - Excuse | Flake | Beginning | Chris | Door | Equinoxe | Dog | Kyoto | Intro
+-BenjaMint(Artist) - Voyage 
+-CFAM (Artist) - Carbon
+
+
+
+EXTRA THANKS:
+-un_roman, made the Reimagined logo that I use on Curseforge, Modrinth and Planet Minecraft!
+https://www.planetminecraft.com/member/un_roman/
+
+-RickyMemster, borrowed and modified a few of their ore variants (Actually unsure of how many of his ore variants are present in the pack anymore):
+https://www.planetminecraft.com/texture-pack/1-17-style-variated-ores/
+
+-Cosmoman, has helped and contributed with a few texture tweaks now and then, porting deepslate ores, consistency changes for new updates, reimagined paintings, and so on.
+https://www.planetminecraft.com/member/cosmoman_476/
+
+-Reimagined the Shader, used for the Panorama:
+https://www.curseforge.com/minecraft/shaders/complementary-reimagined
+
+-ShrimpSnail, let me borrow and repurpose (remake from scratch) their enchanting book cem animation from their pack as well as helping me a ton with learning CEM animation and as of late Polytone (Also helped me with a few Polytone features):
+https://www.curseforge.com/minecraft/texture-packs/the-great-shrimpsby
+
+-EwanHowell, has helped me with honestly more than I can count, biggest reason I even know how to make resource packs (Also helped to to remake Shrimp's enchant book animation):
+https://www.planetminecraft.com/member/ewanhowell5195/
+
+
+
+-Ron1x, submitted ETF menu support (v1.47)
+-Drodi, submitted Rail consistency to the new Reimagined iron (v1.47)
+-Raffi, submitted Modmenu ui support and partial EMI menu gui support (v1.47)
+
+
+
+
+
+And last but but least!
+-Genuine huge thanks for anyone whose donated any amount during any time on my past patreon or my current ko-fi, genuinely I'm so grateful to any of you and ur feckin' amazing <3
+Shameless Ko-Fi plug if you do feel generous: https://ko-fi.com/reijvi ;)

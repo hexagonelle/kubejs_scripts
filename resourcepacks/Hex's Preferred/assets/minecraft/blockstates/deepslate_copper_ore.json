@@ -1,0 +1,39 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "block/deepslate_copper_ore"
+      },
+      {
+        "model": "block/deepslate_copper_ore1"
+      },
+      {
+        "model": "block/deepslate_copper_ore2"
+      },
+      {
+        "model": "block/deepslate_copper_ore3"
+      },
+      {
+        "model": "block/deepslate_copper_ore4"
+      },
+      {
+        "model": "block/deepslate_copper_ore5"
+      },
+      {
+        "model": "block/deepslate_copper_ore6" 
+      },
+      {
+        "model": "block/deepslate_copper_ore7"
+      },
+      {
+        "model": "block/deepslate_copper_ore8"
+      },
+      {
+        "model": "block/deepslate_copper_ore9"
+      },
+      { 
+        "model": "block/deepslate_copper_ore10"
+      }
+    ]
+  }
+}

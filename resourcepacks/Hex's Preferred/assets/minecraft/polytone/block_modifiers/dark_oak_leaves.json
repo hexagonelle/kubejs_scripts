@@ -1,0 +1,17 @@
+{
+   "colormap": "reijvi_reimagined:colormap_foliage_darkoak",
+   
+     "particle_emitters": [
+     {
+      "spawn_location":"center",
+      "particle": "reijvi_reimagined:falling_leaves_darkoak",
+      "chance": "0.05",
+      "x": "rand()", 
+      "z": "rand()",
+      "y": "-0.5",
+      "dx": "0",
+      "dy": "0",
+      "dz": "0"
+    }
+  ]
+}

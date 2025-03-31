@@ -1,0 +1,5 @@
+sound.torch.ambient,
+sound.command_block.ambient,
+sound.command_block.effects,
+sound.redstone_lamp.ambient,
+sound.enchant_table.music

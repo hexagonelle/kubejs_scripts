@@ -1,0 +1,45 @@
+{
+  "variants": {
+    "persistent=true": [
+      { "model": "minecraft:block/leaves/alive/oak_leaves_0" },
+      { "model": "minecraft:block/leaves/alive/oak_leaves_1" },
+      { "model": "minecraft:block/leaves/alive/oak_leaves_2" }
+      ],
+
+      "persistent=false,distance=1": [
+        {
+          "model": "block/leaves/alive/oak_leaves_0_d1"
+        }
+      ],
+      "persistent=false,distance=2": [
+        {
+          "model": "block/leaves/alive/oak_leaves_0_d2"
+        }
+      ],
+      "persistent=false,distance=3": [
+        {
+          "model": "block/leaves/alive/oak_leaves_0_d3"
+        }
+      ],
+      "persistent=false,distance=4": [
+        {
+          "model": "block/leaves/alive/oak_leaves_0_d4"
+        }
+      ],
+      "persistent=false,distance=5": [
+        {
+          "model": "block/leaves/alive/oak_leaves_0_d5"
+        }
+      ],
+      "persistent=false,distance=6": [
+        {
+          "model": "block/leaves/alive/oak_leaves_0_d6"
+        }
+      ],
+      "persistent=false,distance=7": [
+        {
+          "model": "block/leaves/dead/oak_leaves0_dead_d7"
+        }
+      ]
+  }
+}
