@@ -4,41 +4,23 @@
 		"minecraft:lava": {
 			"minecraft:water": {
 				"obsidian": {
-					// wildcard, accept any block as modifier
-					"*": [{
-						"id": "minecraft:crying_obsidian",
-						"weight": 100.0,
-					}]
+					"*": [{"id": "minecraft:crying_obsidian","weight": 1.0}]
+				},
+				// cobblestone generator
+				"results": {
+					"minecraft:deepslate": [{"id": "minecraft:cobbled_deepslate","weight": 1.0}],
+					"quark:polished_jasper": [{"id": "quark:jasper","weight": 1.0}],
+					"quark:polished_limestone": [{"id": "quark:limestone","weight": 1.0}],
+					"quark:polished_shale": [{"id": "quark:shale","weight": 1.0}],
+					"*": [{"id": "minecraft:cobblestone","weight": 1.0}]
+				},
+			},
+			"b:minecraft:blue_ice": {
+				"results": {
+					"quark:permafrost": [{"id": "quark:permafrost","weight": 1.0}]
 				}
 			}
 		}
-	},
-
-	// Custom Generator
-	"customGen": {
-		"stoneGen": {
-			"quark:jasper": [
-				{"id": "quark:jasper","weight": 1.0}
-			],
-			"quark:limestone": [
-				{"id": "quark:limestone","weight": 1.0}
-			],
-			"quark:shale": [
-				{"id": "quark:shale","weight": 1.0}
-			],
-			"quark:shale": [
-				{"id": "quark:shale","weight": 1.0}
-			],
-		},
-		"cobbleGen": {
-			"minecraft:cobbled_deepslate": [
-				{"id": "minecraft:cobbled_deepslate","weight": 1.0}
-			]
-		},
-		"basaltGen": {
-    		"quark:permafrost": [
-	        	{"id": "quark:permafrost","weight": 1.0}
-    		]
-    	}
 	}
+
 }

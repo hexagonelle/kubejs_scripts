@@ -1,8 +1,0 @@
-{
-	"parent": "block/plank_stairs_outer_up_se",
-	"textures": {
-		"particle": "block/crimson_planks",
-		"side": "block/crimson_planks",
-		"top": "block/crimson_plank_atlas"
-	}
-}

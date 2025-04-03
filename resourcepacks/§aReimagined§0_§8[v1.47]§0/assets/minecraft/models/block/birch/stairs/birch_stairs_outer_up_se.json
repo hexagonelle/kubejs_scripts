@@ -1,8 +1,0 @@
-{
-	"parent": "block/plank_stairs_outer_up_se",
-	"textures": {
-		"particle": "block/birch_planks",
-		"side": "block/birch_planks",
-		"top": "block/birch_plank_atlas"
-	}
-}

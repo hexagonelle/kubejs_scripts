@@ -1,8 +1,0 @@
-{	
-	"animation": {"frametime": 3},
-	"overlay": 
-		{
-			"texture": "minecraft:textures/block/snow.png",
-			"emissive": true
-		}
-}

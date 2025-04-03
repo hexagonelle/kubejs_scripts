@@ -1,8 +1,0 @@
-{
-  "sound_emitters": [
-    {
-      "sound": "reijvi_reimagined:sound.enchant_table.music",
-      "volume":"0.0"
-    }
-  ]
-}

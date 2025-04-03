@@ -1,9 +1,0 @@
-{
-	"credit": "Made with Blockbench",
-	"parent": "minecraft:block/carpet_reimagined",
-	"textures": {
-		"particle": "block/blue_wool",
-		"wool": "block/blue_wool",
-		"side": "block/blue_wool"
-	}
-}

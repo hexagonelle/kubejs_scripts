@@ -1,8 +1,0 @@
-{
-	"parent": "block/plank_stairs_outer_up_se",
-	"textures": {
-		"particle": "block/warped_planks",
-		"side": "block/warped_planks",
-		"top": "block/warped_plank_atlas"
-	}
-}

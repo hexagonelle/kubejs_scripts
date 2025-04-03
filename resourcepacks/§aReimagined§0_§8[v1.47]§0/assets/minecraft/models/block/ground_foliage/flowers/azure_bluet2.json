@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:block/cross",
-  "textures": {
-    "cross": "minecraft:block/ground_foliage/flowers/azure_bluet2"
-  }
-}

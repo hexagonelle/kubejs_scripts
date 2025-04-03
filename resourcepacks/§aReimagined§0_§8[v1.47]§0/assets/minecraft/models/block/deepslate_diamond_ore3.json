@@ -1,7 +1,0 @@
-{
-  "parent": "minecraft:block/cube_column",
-  "textures": {
-    "end": "minecraft:block/deepslate_diamond3_top",
-    "side": "minecraft:block/deepslate_diamond_ore3"
-  }
-}
