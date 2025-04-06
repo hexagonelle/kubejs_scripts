@@ -1,0 +1,14 @@
+{
+	"filters": [
+		{"id": "emi:/world/fluid_interaction/minecraft/obsidian"},
+		{"id": "immersive_weathering/basalt_below"},
+		{"id": "immersive_weathering/blackstone"},
+		{"id": "immersive_weathering/calcite"},
+		{"id": "immersive_weathering/magma_block"},
+		{"id": "immersive_weathering/tuff"},
+		{"id": "immersive_weathering/smooth_basalt"},
+		{"id": "immersive_weathering/andesite"},
+		{"id": "immersive_weathering/diorite"},
+		{"id": "immersive_weathering/granite"},
+	]
+}

@@ -1,6 +1,6 @@
 
 [general]
-	"Enable 'q' Button" = true
+	"Enable 'q' Button" = false
 	"'q' Button on the Right" = false
 	"Disable Q Menu Effects" = false
 	#How many advancements deep you can see in the advancement screen. Vanilla is 2.
@@ -24,11 +24,11 @@
 	#This will have various knock-on effects but might make the Weald more common, or appear closer to modded biomes. Who knows?
 	"Terrablender Modify Vanilla Anyway" = false
 	#Set to false to disable the popup message telling you that you can config quark in the q menu
-	"Enable Onboarding" = true
+	"Enable Onboarding" = false
 	#The amount of slots the chest button system should seek when trying to figure out if a container should be eligible for them.
 	"Chest Button Slot Target" = 27
 	#Set this to false to not generate the Quark Programmer Art resource pack
-	"Generate Programmer Art" = true
+	"Generate Programmer Art" = false
 
 	[general.chest_button_offsets]
 		"Player X" = 0
@@ -47,21 +47,21 @@
 	world = true
 	mobs = true
 	client = true
-	experimental = true
+	experimental = false
 	oddities = true
 
 [automation]
-	"Chains Connect Blocks" = true
+	"Chains Connect Blocks" = false
 	Chute = true
 	Crafter = true
-	"Dispensers Place Blocks" = true
+	"Dispensers Place Blocks" = false
 	"Ender Watcher" = true
 	"Feeding Trough" = true
 	Gravisand = true
 	"Iron Rod" = true
 	"Metal Buttons" = true
 	"Obsidian Plate" = true
-	"Pistons Move Tile Entities" = true
+	"Pistons Move Tile Entities" = false
 	"Redstone Randomizer" = true
 
 	[automation.crafter]
@@ -126,13 +126,13 @@
 	"More Potted Plants" = true
 	"Nether Brick Fence Gate" = true
 	"Rainbow Lamps" = true
-	"Raw Metal Bricks" = true
-	Rope = true
+	"Raw Metal Bricks" = false
+	Rope = false
 	"Shear Vines" = true
 	Shingles = true
 	"Soul Sandstone" = true
 	Stools = true
-	"Sturdy Stone" = true
+	"Sturdy Stone" = false
 	Thatch = true
 	"Variant Bookshelves" = true
 	"Variant Chests" = true
@@ -284,11 +284,11 @@
 [management]
 	"Automatic Tool Restock" = true
 	"Easy Transfering" = true
-	"Expanded Item Interactions" = true
-	"Hotbar Changer" = true
+	"Expanded Item Interactions" = false
+	"Hotbar Changer" = false
 	"Inventory Sorting" = true
 	"Item Sharing" = true
-	"Quick Armor Swapping" = true
+	"Quick Armor Swapping" = false
 
 	[management.automatic_tool_restock]
 		#Enchantments deemed important enough to have special priority when finding a replacement
@@ -313,10 +313,10 @@
 
 	[management.expanded_item_interactions]
 		"Enable Armor Interaction" = true
-		"Enable Shulker Box Interaction" = true
-		"Enable Lava Interaction" = true
-		"Allow Opening Shulker Boxes" = true
-		"Allow Rotating Bundles" = true
+		"Enable Shulker Box Interaction" = false
+		"Enable Lava Interaction" = false
+		"Allow Opening Shulker Boxes" = false
+		"Allow Rotating Bundles" = false
 
 	[management.hotbar_changer]
 		"Animation Time" = 7.0
@@ -342,14 +342,14 @@
 	"Ambient Discs" = true
 	"Ancient Tomes" = true
 	"Beacon Redirection" = true
-	"Bottled Cloud" = true
+	"Bottled Cloud" = false
 	"Color Runes" = true
 	"Endermosh Music Disc" = true
 	"Parrot Eggs" = true
-	"Pathfinder Maps" = true
-	Pickarang = true
-	"Seed Pouch" = true
-	"Skull Pikes" = true
+	"Pathfinder Maps" = false
+	Pickarang = false
+	"Seed Pouch" = false
+	"Skull Pikes" = false
 	"Slime In A Bucket" = true
 	"Torch Arrow" = true
 	Trowel = true
@@ -512,46 +512,46 @@
 
 [tweaks]
 	"Armed Armor Stands" = true
-	"Automatic Recipe Unlock" = true
+	"Automatic Recipe Unlock" = false
 	"Better Elytra Rocket" = true
 	"Campfires Boost Elytra" = true
-	"Compasses Work Everywhere" = true
+	"Compasses Work Everywhere" = false
 	"Coral On Cactus" = true
-	"Diamond Repair" = true
+	"Diamond Repair" = false
 	"Double Door Opening" = true
-	"Dragon Scales" = true
+	"Dragon Scales" = false
 	"Dyeable Item Frames" = true
 	Emotes = true
 	"Enhanced Ladders" = true
 	"Glass Shard" = true
-	"Gold Tools Have Fortune" = true
+	"Gold Tools Have Fortune" = false
 	"Grab Chickens" = true
 	"Hoe Harvesting" = true
 	"Horses Swim" = true
 	"Improved Sponges" = true
 	"Lock Rotation" = true
-	"Magma Keeps Concrete Powder" = true
-	"Map Washing" = true
+	"Magma Keeps Concrete Powder" = false
+	"Map Washing" = false
 	"More Banner Layers" = true
 	"More Note Block Sounds" = true
-	"More Villagers" = true
+	"More Villagers" = false
 	"No Durability On Cosmetics" = true
 	"Pat The Dogs" = true
 	"Petals On Water" = true
 	"Pig Litters" = true
 	"Poison Potato Usage" = true
-	"Reacharound Placing" = true
-	"Renewable Spore Blossoms" = true
-	"Replace Scaffolding" = true
+	"Reacharound Placing" = false
+	"Renewable Spore Blossoms" = false
+	"Replace Scaffolding" = false
 	"Safer Creatures" = true
-	"Shulker Packing" = true
+	"Shulker Packing" = false
 	"Simple Harvest" = true
 	"Slabs To Blocks" = true
 	"Slimes To Magma Cubes" = true
 	"Snow Golem Player Heads" = true
 	"Utility Recipes" = true
 	"Vexes Die With Their Masters" = true
-	"Villagers Follow Emeralds" = true
+	"Villagers Follow Emeralds" = false
 	"Zombie Villagers On Normal" = true
 
 	[tweaks.automatic_recipe_unlock]
@@ -610,7 +610,7 @@
 		#Allowed values: (,0]
 		"Fall Speed" = -0.2
 		"Allow Freestanding" = true
-		"Allow Dropping Down" = true
+		"Allow Dropping Down" = false
 		"Allow Sliding" = true
 		"Allow Inventory Sneak" = true
 
@@ -663,8 +663,8 @@
 		"Enable Amethyst Sound" = true
 
 	[tweaks.more_villagers]
-		"Ocean Villager" = true
-		"Beach Villager" = true
+		"Ocean Villager" = false
+		"Beach Villager" = false
 
 	[tweaks.no_durability_on_cosmetics]
 		#Allow applying cosmetic items such as color runes with no anvil durability usage? Cosmetic items are defined in the quark:cosmetic_anvil_items tag
@@ -674,9 +674,9 @@
 		#How many ticks it takes for a dog to want affection after being pet/tamed; leave -1 to disable
 		"Dogs Want Love" = -1
 		#Whether you can pet all mobs
-		"Pet All Mobs" = false
+		"Pet All Mobs" = true
 		#If `petAllMobs` is set, these mobs still can't be pet
-		"Pettable Denylist" = ["minecraft:ender_dragon", "minecraft:wither", "minecraft:armor_stand"]
+		"Pettable Denylist" = ["minecraft:ender_dragon", "minecraft:wither"]
 		#Even if `petAllMobs` is not set, these mobs can be pet
 		"Pettable Allowlist" = []
 
@@ -737,31 +737,31 @@
 		#Can a dispenser be crafted by adding a bow to a dropper?
 		"Enable Dispenser" = true
 		#Can a repeater be crafted with the pattern for a redstone torch?
-		"Enable Repeater" = true
+		"Enable Repeater" = false
 		#Can you craft a minecart around blocks which can be placed inside?
-		"Enable Minecarts" = true
+		"Enable Minecarts" = false
 		#Can you craft a boat around a chest to directly make a chest boat?
-		"Enable Chest Boats" = true
+		"Enable Chest Boats" = false
 		#Can you craft four chests at once using logs?
-		"Logs To Chests" = true
+		"Logs To Chests" = false
 		#Can Coral be crafted into dye?
 		"Coral To Dye" = true
 		#Can cookies, paper, and bread be crafted in a 2x2 crafting table?
-		"Bent Recipes" = true
+		"Bent Recipes" = false
 		#Can Rotten Flesh and Poisonous Potatoes be composted?
 		"Compostable Toxins" = true
 		#Does Dragon Breath return a bottle when used as a reagent or material?
 		"Effective Dragon Breath" = true
 		#Can torches can be used as fuel in furnaces?
-		"Torches Burn" = true
+		"Torches Burn" = false
 		#Can bones be smelted down to bone meal?
-		"Bone Meal Utility" = true
+		"Bone Meal Utility" = false
 		#Can Charcoal be crafted into Black Dye?
 		"Charcoal To Black Dye" = true
 		#Can two Logs be used instead of a Chest to make a Hopper?
-		"Easy Hopper" = true
+		"Easy Hopper" = false
 		#Can two Logs be used to craft 16 sticks?
-		"Easy Sticks" = true
+		"Easy Sticks" = false
 		#Can raw ore blocks be smelted, taking 9x the time a normal item?
 		"Smelt Raw Ore Blocks" = true
 
@@ -1131,7 +1131,7 @@
 		#Percentage of fallen logs spawning as hollow. Requires Hollow Logs Module to be enabled
 		"Hollow Chance" = 0.7
 		Rarity = 5
-		#chance for logs to spawn on water
+		#Chance for logs to spawn on water
 		"On Water Chance" = 0.1
 		"Sparse Biome Rarity" = 12
 		#Tags that define which biomes can have which wood types
@@ -1348,11 +1348,11 @@
 
 [mobs]
 	Crabs = true
-	Forgotten = true
+	Forgotten = false
 	Foxhound = true
 	Shiba = true
-	Stonelings = true
-	Toretoise = true
+	Stonelings = false
+	Toretoise = false
 	Wraith = true
 
 	[mobs.crabs]
@@ -1552,20 +1552,20 @@
 					"Is Blacklist" = false
 
 [client]
-	"Auto Walk Keybind" = true
-	"Back Button Keybind" = true
+	"Auto Walk Keybind" = false
+	"Back Button Keybind" = false
 	"Buckets Show Inhabitants" = true
-	Camera = true
+	Camera = false
 	"Chest Searching" = true
-	"Elytra Indicator" = true
-	"Greener Grass" = true
+	"Elytra Indicator" = false
+	"Greener Grass" = false
 	"Improved Tooltips" = true
 	"Long Range Pick Block" = true
-	"Microcrafting Helper" = true
+	"Microcrafting Helper" = false
 	"Soul Candles" = true
 	"Usage Ticker" = true
 	"Uses For Curses" = true
-	"Variant Animal Textures" = true
+	"Variant Animal Textures" = false
 	"Wool Shuts Up Minecarts" = true
 
 	[client.auto_walk_keybind]
@@ -1608,12 +1608,12 @@
 
 	[client.improved_tooltips]
 		"Attribute Tooltips" = true
-		"Food Tooltips" = true
-		"Shulker Tooltips" = true
-		"Map Tooltips" = true
-		"Enchanting Tooltips" = true
+		"Food Tooltips" = false
+		"Shulker Tooltips" = false
+		"Map Tooltips" = false
+		"Enchanting Tooltips" = false
 		"Fuel Time Tooltips" = true
-		"Shulker Box Use Colors" = true
+		"Shulker Box Use Colors" = false
 		"Shulker Box Require Shift" = false
 		"Map Require Shift" = false
 		#The value of each shank of food.
@@ -1721,22 +1721,22 @@
 	[experimental.game_nerfs]
 		#Makes Mending act like the Unmending mod
 		#https://www.curseforge.com/minecraft/mc-mods/unmending
-		"Nerf Mending" = true
+		"Nerf Mending" = false
 		#Makes Mending II still work even if mending is nerfed.
 		#If you want Mending II, disable the sanity check on Ancient Tomes and add minecraft:mending to the tomes.
 		"No Nerf for Mending II" = false
 		#Resets all villager discounts when zombified to prevent reducing prices to ridiculous levels
-		"Nerf Villager Discount" = true
+		"Nerf Villager Discount" = false
 		#Makes Iron Golems not drop Iron Ingots
-		"Disable Iron Farms" = true
+		"Disable Iron Farms" = false
 		#Makes Boats not glide on ice
-		"Disable Ice Roads" = true
+		"Disable Ice Roads" = false
 		#Makes Sheep not drop Wool when killed
 		"Disable Wool Drops" = true
 		#Disables mob griefing for only specific entities
 		"Enable Selective Mob Griefing" = true
 		#Force Elytra to only work in specific dimensions
-		"Enable Dimension Locked Elytra" = true
+		"Enable Dimension Locked Elytra" = false
 		#Makes falling blocks not able to be duped via dimension crossing
 		"Disable Falling Block Dupe" = true
 		#Fixes several piston physics exploits, most notably including TNT duping
@@ -1749,7 +1749,7 @@
 		"Village Spawn Nerf" = false
 		#Distance at which villages will spawn as normal. Effect scales linearly from world spawn
 		"Village Spawn Nerf Distance" = 7000
-		"Non Griefing Entities" = ["minecraft:creeper", "minecraft:enderman"]
+		"Non Griefing Entities" = ["born_in_chaos_v1:skeleton_demoman", "born_in_chaos_v1:phantom_creeper"]
 		"Elytra Allowed Dimensions" = ["minecraft:the_end"]
 
 	[experimental.overlay_shader]
@@ -1917,6 +1917,10 @@
 		"Influence Power" = 0.125
 		#If you set this to false, the vanilla Enchanting Table will no longer automatically convert to the Matrix Enchanting table. You'll have to add a recipe for the Matrix Enchanting Table to make use of this.
 		"Automatically Convert" = true
+		#Set this to true to allow undiscoverable enchantments to be rolled as pieces
+		"Allow Undiscoverable Enchantments" = false
+		#Any undiscoverable enchantment IDs here will be able to appear in matrix enchanting
+		"Undiscoverable Whitelist" = []
 
 	[oddities.pipes]
 		#How long it takes for an item to cross a pipe. Bigger = slower.
